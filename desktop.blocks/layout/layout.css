@@ -1,0 +1,15 @@
+.layout {
+    min-height: 130px;
+    position: relative;
+}
+
+.layout__left {
+    padding-right: 200px;
+}
+
+.layout__right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 150px;
+}

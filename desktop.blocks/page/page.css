@@ -1,0 +1,11 @@
+.page {
+    background: #fafafa;
+    font: 13px Helvetica, Arial, sans-serif;
+}
+
+.page__inner {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 1.6em 1.6em;
+    width: 800px;
+}

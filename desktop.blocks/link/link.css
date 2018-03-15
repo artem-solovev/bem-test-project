@@ -1,0 +1,12 @@
+.link {
+    color: #666;
+    text-decoration: none;
+}
+
+.link__slogan {
+    display: block;
+    font: 11px Verdana, sans-serif;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    white-space: nowrap;
+}
